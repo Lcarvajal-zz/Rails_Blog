@@ -1,5 +1,5 @@
 == Blog
-==== Built With Ruby on Rails
 {by Lukas Carvajal}[http://lukascarvajal.com]
 
-
+==== Description
+This is a web app built with Ruby on Rails.
