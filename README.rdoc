@@ -1,5 +1,5 @@
-== README
+== Blog
+==== Built With Ruby on Rails
+{by Lukas Carvajal}[http://lukascarvajal.com]
 
-= Blog
-=== Built With Ruby on Rails
-{*by Lukas Carvajal*}[http://lukascarvajal.com]
+
