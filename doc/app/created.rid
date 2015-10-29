@@ -1,0 +1,9 @@
+Thu, 29 Oct 2015 01:47:25 -0500
+README.rdoc	Thu, 29 Oct 2015 00:59:41 -0500
+app/controllers/application_controller.rb	Thu, 29 Oct 2015 00:59:41 -0500
+app/controllers/articles_controller.rb	Thu, 29 Oct 2015 01:40:37 -0500
+app/controllers/welcome_controller.rb	Thu, 29 Oct 2015 01:08:43 -0500
+app/helpers/application_helper.rb	Thu, 29 Oct 2015 00:59:41 -0500
+app/helpers/articles_helper.rb	Thu, 29 Oct 2015 01:11:36 -0500
+app/helpers/welcome_helper.rb	Thu, 29 Oct 2015 01:08:43 -0500
+app/models/article.rb	Thu, 29 Oct 2015 01:22:40 -0500
